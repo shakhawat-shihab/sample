@@ -1,0 +1,133 @@
+body
+{
+	margin: 0;
+}
+.header{
+	background-color: #3A539B;
+}
+.header p{
+
+	padding-top: 10px;
+	padding-bottom:  20px;
+	//font-size: 40px;
+	font-size: 2.7vw;
+	text-align: center;
+	margin: 0;
+	color: #64c41b;
+	font-family: 'Squada One', cursive;
+}
+.basic{
+	background-image: url("https://www.protradeunited.com.au/wp-content/uploads/2018/07/Gala-2018-Webpage-background-Top.png");
+	background-size:cover; 
+	background-position: center;
+	background-color: #6c7a89;
+	overflow: auto;
+	max-width: auto;
+
+}
+.info{
+	float: left;
+	width:60%;
+}
+.name{
+	overflow: hidden;
+	margin-bottom: 0;
+	//font-size: 30px;
+	font-size: 2.4vw;
+	color: white;
+	padding-left: 30%;
+	//font-family: "Courier New", Courier, monospace;
+	font-family: Charcoal, sans-serif;
+}
+.basic_p{
+	overflow: hidden;
+	margin-top: 0;
+	margin-bottom: 0;
+    font-size: 1.8vw;
+    //font-size: 22px;
+    padding-left: 32%;
+    font-family: sans-serif;
+}
+.pic{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	overflow: hidden;
+	width:40%;
+	//padding-left: 10px;
+}
+.im{
+	//height:175px;
+	height:13vw;
+	//width: 180px;
+	width: 12vw;
+	border:1px solid black;
+	border-radius:10px;
+}
+.ruler{
+	border-width: 1px;
+	border-radius: 4px;
+	border-style:dotted;
+    margin:0;
+}
+.obj{
+	background-color: #3a539b;
+}
+.obj h1{
+	padding-left: 2.5%;
+	height: : 200px;
+	margin: 0;
+	padding-top: 5px; 
+	font-size: 2.5vw;
+}
+.obj_content{
+	width: 70%;
+	//font-size: 22px;
+	font-size: 1.6vw;
+	margin: block;
+	padding-left: 10%;
+}
+.obj_content p{
+	margin: 0;
+}
+
+.edu{
+	background-color: #3a539b;
+}
+
+.edu h1{
+	padding-left: 2.5%;
+	height: : 200px;
+	margin: 0;
+	padding-top: 5px; 
+	font-size: 2.5vw;
+}
+.edu_portion{
+	width: 90%;
+	//font-size: 22px;
+	font-size: 1.6vw;
+	margin: block;
+	padding-left: 10%;
+}
+.edu_table th, td{
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	text-align: center;
+	height: 50px;
+}
+.footer{
+	background-color: #3a539b;
+}
+.footer h1{
+	margin: 0;
+	padding-left: 2.5%;
+	font-size: 2.5vw;
+}
+.reference ul{
+	padding-left: 10%;
+	margin: 0; 
+}
+.reference li{
+	font-size: 20px;
+	color: white;
+}
